@@ -1,0 +1,26 @@
+body {
+  background: #ccc;
+}
+
+.header {
+  width: 100%;
+  height: 15vh;
+  background: #303030;
+}
+
+.narrow {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.center {
+  width: 100%;
+  height: 77vh;
+  background-color: white;
+}
+
+.footer {
+width: 100%;
+height: 8vh;
+background: #303030;
+}

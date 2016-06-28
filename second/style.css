@@ -1,0 +1,35 @@
+div {
+  float: left;
+}
+
+.left {
+  width: 33.9vh;
+  height: 100vh;
+  background: #4A90E2;
+}
+
+.middle {
+  width: 33.9vh;
+  height: 100vh;
+  background: #50E3C2;
+}
+
+.right {
+width: 33.9vh;
+height: 80vh;
+background: #B8E986;
+}
+
+.img {
+width: 33.9vh;
+height: 20vh;
+background: #D0021B;
+}
+
+p {
+  font-size: 25px;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  padding-top: 85px;
+}
